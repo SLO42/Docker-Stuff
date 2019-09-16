@@ -1,0 +1,4 @@
+## docker run -it --rm debian
+apt update && apt upgrade -y
+apt install git -y
+apt install gcc -y

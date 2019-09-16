@@ -1,0 +1,2 @@
+## docker-machine rm -y Aiur does the same thing sorta... as -f implies -y. but does a force remove even if it cannont be.
+docker-machine rm -y Aiur

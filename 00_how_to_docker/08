@@ -1,0 +1,2 @@
+# --rm = remove on close,-it for --interactive and --tty 
+docker run --rm -it alpine
